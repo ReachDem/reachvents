@@ -1,2 +1,2 @@
-# reachvents
-Une plate forme cool et intuituve pour organiser, promouvoir et suicre des événements en maximisant leurs visibilité 
+# Reachvents
+### WE ARE STILL BUILDING IT. STAY CONNECTED, WE WILL SHIP IT SOON
